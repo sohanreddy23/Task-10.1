@@ -4,7 +4,7 @@ import Header from '../header'
 import Developerslist from '../developerslist'
 import See from '../seemore'
 import Customerslist from '../customerslist'
-import Seeall from '../seeall'
+import Seeall from '../Email'
 import Last from '../last'
 
 function Routee() {
